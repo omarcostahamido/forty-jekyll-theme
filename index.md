@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Quantum Computing Club at UCI
+landing-title: 'Quantum Computing Club at UCI'
 description: null
 image: null
 author: null
